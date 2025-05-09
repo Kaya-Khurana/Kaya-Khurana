@@ -2,9 +2,10 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-	  <img src="https://readme-typing-svg.herokuapp.comfont=Time+New+Roman&color=white&size=30&center=true&vCenter=true&width=600&height=100&lines=Nice+to+meet+you";Tech+Enthusiast;Curious+Coder;Building+the+Future+with+Tech;>
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Time+New+Roman&color=FFFFFF&size=30&center=true&vCenter=true&width=600&height=100&lines=Nice+to+meet+you;Tech+Enthusiast;Curious+Coder;Building+the+Future+with+Tech" />
   </a>
 </p>
+
 
 <!---<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <p align="center">
@@ -49,4 +50,4 @@
 
 ## 🏆 GitHub Trophies
 
-[![](https://github-profile-trophy.vercel.app/?username=kaya-khurana&theme=dracula&no-frame=false&no-bg=false&margin-w=4&row=2&column=9)](https://github-profile-trophy.vercel.app/?username=kashishgadhiya&theme=dracula&no-frame=false&no-bg=false&margin-w=4&row=2&column=9)
+[![](https://github-profile-trophy.vercel.app/?username=kaya-khurana&theme=dracula&no-frame=false&no-bg=false&margin-w=4&row=2&column=9)](https://github-profile-trophy.vercel.app/?username=kaya-khurana&theme=dracula&no-frame=false&no-bg=false&margin-w=4&row=2&column=9)
