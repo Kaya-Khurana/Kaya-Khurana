@@ -1,17 +1,8 @@
 <h1 align="center"><b>Hi , I'm Kaya Khurana </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Times+New+Roman&color=FFFFFF&size=30&center=true&vCenter=true&width=600&height=100&lines=Nice+to+meet+you;Tech+Enthusiast;Curious+Coder;Building+the+Future+with+Tech" alt="Typing SVG"/>
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7C52C&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Kaya+Khurana;Tech+Enthusiast;Curious+Coder;Web+Developer+in+the+Making" alt="Typing SVG" />
 </p>
-
-
-
-<!---<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<p align="center">
-	<picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 100px></picture>
-</p>-->
 
 #### About me:
 - 💡 I love to explore New Technologies,Framework and Advancements
