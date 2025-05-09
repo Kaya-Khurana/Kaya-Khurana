@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hi , I'm Kaya Khurana </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7C52C&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Kaya+Khurana;Tech+Enthusiast;Curious+Coder;Web+Developer+in+the+Making" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7C52C&center=true&vCenter=true&width=435&lines=Hi%2C+Nice+to+meet+you;Tech+Enthusiast;Curious+Coder;Building+the+Future+with+Tech;" alt="Typing SVG" />
 </p>
 
 #### About me:
