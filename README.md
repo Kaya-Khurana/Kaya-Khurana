@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kaya Khurana</h1>
 <h3 align="center">A passionate Web Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kaya-khurana&label=Profile%20views&color=0e75b6&style=flat" alt="kaya-khurana" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaya-khurana" alt="kaya-khurana" /></a> </p>
 
@@ -16,4 +16,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kaya-khurana&show_icons=true&locale=en" alt="kaya-khurana" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kaya-khurana&" alt="kaya-khurana" /></p>
+
