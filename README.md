@@ -11,7 +11,6 @@
 - 🌱 I'm on track for learning more about Web Development.
 - 💬 Feel free to reach out to me for some interesting discussion.
 - ⚡ Fun fact: I love connecting with different people.
-- 😄 Pronouns: she/her.
 
 ## Technologies 
 <p align="left">
