@@ -23,7 +23,7 @@
 ## Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?perline=7&i=git,github,anaconda,vscode,pycharm,netlify" />
+    <img src="https://skillicons.dev/icons?perline=7&i=git,github,vscode" />
   </a>
 </p>
 ## Connect with me:
